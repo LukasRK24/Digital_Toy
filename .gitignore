@@ -1,0 +1,50 @@
+# Unity .gitignore official template
+# Ignora carpetas temporales, caches y builds generadas automáticamente
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# Archivos de solución generados por IDEs (Visual Studio, Rider, VS Code)
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Configuración y carpetas locales de editores
+.vs/
+.idea/
+.vscode/
+*.directory
+
+# Builds ejecutables exportados
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# Archivos de sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
